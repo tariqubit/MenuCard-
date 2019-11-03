@@ -1,0 +1,12 @@
+c:\users\altair\documents\visual studio 2013\Projects\MenuCardSDPro(Maaz)\MenuCardSDPro(Maaz)\bin\Debug\MenuCardSDPro(Maaz).exe.config
+c:\users\altair\documents\visual studio 2013\Projects\MenuCardSDPro(Maaz)\MenuCardSDPro(Maaz)\bin\Debug\MenuCardSDPro(Maaz).exe
+c:\users\altair\documents\visual studio 2013\Projects\MenuCardSDPro(Maaz)\MenuCardSDPro(Maaz)\bin\Debug\MenuCardSDPro(Maaz).pdb
+c:\users\altair\documents\visual studio 2013\Projects\MenuCardSDPro(Maaz)\MenuCardSDPro(Maaz)\bin\Debug\MetroFramework.Design.dll
+c:\users\altair\documents\visual studio 2013\Projects\MenuCardSDPro(Maaz)\MenuCardSDPro(Maaz)\bin\Debug\MetroFramework.dll
+c:\users\altair\documents\visual studio 2013\Projects\MenuCardSDPro(Maaz)\MenuCardSDPro(Maaz)\bin\Debug\MetroFramework.Fonts.dll
+c:\users\altair\documents\visual studio 2013\Projects\MenuCardSDPro(Maaz)\MenuCardSDPro(Maaz)\obj\Debug\MenuCardSDPro(Maaz).csprojResolveAssemblyReference.cache
+c:\users\altair\documents\visual studio 2013\Projects\MenuCardSDPro(Maaz)\MenuCardSDPro(Maaz)\obj\Debug\MenuCardSDPro_Maaz_.Properties.Resources.resources
+c:\users\altair\documents\visual studio 2013\Projects\MenuCardSDPro(Maaz)\MenuCardSDPro(Maaz)\obj\Debug\MenuCardSDPro(Maaz).csproj.GenerateResource.Cache
+c:\users\altair\documents\visual studio 2013\Projects\MenuCardSDPro(Maaz)\MenuCardSDPro(Maaz)\obj\Debug\MenuCardSDPro(Maaz).exe
+c:\users\altair\documents\visual studio 2013\Projects\MenuCardSDPro(Maaz)\MenuCardSDPro(Maaz)\obj\Debug\MenuCardSDPro(Maaz).pdb
+c:\users\altair\documents\visual studio 2013\Projects\MenuCardSDPro(Maaz)\MenuCardSDPro(Maaz)\obj\Debug\MenuCardSDPro_Maaz_.Form1.resources
